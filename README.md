@@ -1,4 +1,4 @@
-Installing an IDE
+Installing an IDE /n
 Although this is not necessary I would recommend you download and install the pycharm IDE.
 
 Installing Anaconda

@@ -2,8 +2,8 @@
 Although this is not necessary I would recommend you download and install the pycharm IDE.
 
 ### Installing Anaconda <br />
-We are going to be using anaconda to setup our virtual environment. 
-*IMPORTANT* When running through the installation process please check the box to ADD ANACONDA TO PATH.
+We are going to be using anaconda to setup our virtual environment. <br />
+***IMPORTANT*** When running through the installation process please check the box to ADD ANACONDA TO PATH.
 
 ### Creating a New Virtual Environment <br />
 Now we are going to create a new virtual environment using anaconda and python 3.6.
